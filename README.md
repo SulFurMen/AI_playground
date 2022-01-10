@@ -1,2 +1,2 @@
-# AI_playground
-AI/BD/Data science projects
+# Uni_stuff
+All my projects for univeristy
