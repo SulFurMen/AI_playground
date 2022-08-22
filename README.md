@@ -1,2 +1,2 @@
 # Uni_stuff
-All my projects for univeristy
+Some of my university related projects.
